@@ -1,0 +1,8 @@
+{
+"lu-cycleroutes":{
+		"name":"leeds_cycling_routes",
+		"credit":{"text":"&copy; University of Leeds","src":"Leeds University"},
+		"metadata": "leeds_cycling_routes_header.json",
+		"size": 787000
+	}
+}
