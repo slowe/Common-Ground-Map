@@ -1,15 +1,13 @@
 {
-	"lu-cycleroutes":{
-		"geojson":"https://raw.githubusercontent.com/XX-Blue-XX/cgm/Common-Ground-Map/leeds_cycling_routes.geojson",
-		"name":"leeds_cycling_routes",
-		"desc": "Cycling routes in Leeds city",
-		"credit":{"text":"&copy; University of Leeds","src":"Leeds University"},
-		"url": "https://datamillnorth.org/dataset/cycle-routes-in-leeds",
-		"owner": "Leeds City Council",
-		"odbl": false,
-		"licence": {"text":"Copyright","url":"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"},
-		"date":"2019-02-08",
-		"size": 787000,
-		"colour": "#0099FF"
-	}
+	"geojson":"https://raw.githubusercontent.com/XX-Blue-XX/cgm/Common-Ground-Map/leeds_cycling_routes.geojson",
+	"name":"leeds_cycling_routes",
+	"desc": "Cycling routes in Leeds city",
+	"credit":{"text":"&copy; University of Leeds","src":"Leeds University"},
+	"url": "https://datamillnorth.org/dataset/cycle-routes-in-leeds",
+	"owner": "Leeds City Council",
+	"odbl": false,
+	"licence": {"text":"Copyright","url":"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"},
+	"date":"2019-02-08",
+	"size": 787000,
+	"colour": "#0099FF"
 }
