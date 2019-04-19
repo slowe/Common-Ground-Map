@@ -1,5 +1,5 @@
 {
-	"geojson":"https://raw.githubusercontent.com/XX-Blue-XX/cgm/Common-Ground-Map/data/leeds-bakery.geojson",
+	"geojson":"https://raw.githubusercontent.com/XX-Blue-XX/Common-Ground-Map/master/data/leeds-bakery.geojson",
 	"name":"Leeds Bakery",
 	"desc": "Bakeries in Leeds",
 	"credit":{"text":"&copy; University of Leeds","src":"Leeds University"},
