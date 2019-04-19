@@ -19,5 +19,12 @@
 		"metadata": "https://raw.githubusercontent.com/XX-Blue-XX/Common-Ground-Map/master/data/leeds-furniture-header.json",
 		"topics": ["Public"],
 		"size": 13000
-	}	
+	},
+	"lu-hospitallocations":{
+		"name":"Leeds Hospital Locations",
+		"credit":{"text":"&copy; University of Leeds","src":"Leeds University"},
+		"metadata": "https://raw.githubusercontent.com/XX-Blue-XX/Common-Ground-Map/master/data/leeds-hospital-locations.json",
+		"topics": ["Public"],
+		"size": 4000
+	}
 }
