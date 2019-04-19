@@ -61,6 +61,27 @@
 		"metadata": "https://raw.githubusercontent.com/XX-Blue-XX/Common-Ground-Map/master/data/leeds-amenities-recycling-header.json",
 		"topics": ["Environment"],
 		"size": 26000
+	},
+	"lu-e-cigarette":{
+		"name":"Leeds e-cigarette",
+		"credit":{"text":"&copy; University of Leeds","src":"Leeds University"},
+		"metadata": "https://raw.githubusercontent.com/XX-Blue-XX/Common-Ground-Map/master/data/leeds-places-to-buy-e-cigarette-header.json",
+		"topics": ["Public"],
+		"size": 5000
+	},
+	"lu-pollution-point":{
+		"name":"Leeds Pollution Point",
+		"credit":{"text":"&copy; University of Leeds","src":"Leeds University"},
+		"metadata": "https://raw.githubusercontent.com/XX-Blue-XX/Common-Ground-Map/master/data/leeds-pollution-point-header.json",
+		"topics": ["Environment"],
+		"size": 32000
+	},
+	"lu-alcohol":{
+		"name":"Leeds Alcohol",
+		"credit":{"text":"&copy; University of Leeds","src":"Leeds University"},
+		"metadata": "https://raw.githubusercontent.com/XX-Blue-XX/Common-Ground-Map/master/data/leeds-shop-alcohol-header.json",
+		"topics": ["Public"],
+		"size": 17000
 	}
 		
 		
