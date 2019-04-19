@@ -1,6 +1,6 @@
 {
 	"geojson":"https://raw.githubusercontent.com/XX-Blue-XX/cgm/Common-Ground-Map/data/leeds-bakery.geojson",
-	"name":"Leeds Bakeries",
+	"name":"Leeds Bakery",
 	"desc": "Bakeries in Leeds",
 	"credit":{"text":"&copy; University of Leeds","src":"Leeds University"},
 	"url": "https://datamillnorth.org/dataset/cycle-routes-in-leeds",
