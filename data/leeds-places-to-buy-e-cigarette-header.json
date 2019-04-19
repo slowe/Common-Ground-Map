@@ -1,0 +1,13 @@
+{
+	"geojson":"https://raw.githubusercontent.com/XX-Blue-XX/Common-Ground-Map/master/data/leeds-places-to-buy-e-cigarette.geojson",
+	"name":"Leeds e-cigarette",
+	"desc": "Places to buy e-cigarette in Leeds",
+	"credit":{"text":"&copy; University of Leeds","src":"Leeds University"},
+	"url": "https://datamillnorth.org/",
+	"owner": "Leeds City Council",
+	"odbl": false,
+	"licence": {"text":"Copyright","url":"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"},
+	"date":"2019-02-18",
+	"size": 5000,
+	"colour": "#E9F13F"
+}
