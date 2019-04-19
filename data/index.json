@@ -40,5 +40,15 @@
 		"metadata": "https://raw.githubusercontent.com/XX-Blue-XX/Common-Ground-Map/master/data/leeds-landusage-military-header.json",
 		"topics": ["Government"],
 		"size": 3000
+	},
+	"lu-moneyleader":{
+		"name":"Leeds Money Leader",
+		"credit":{"text":"&copy; University of Leeds","src":"Leeds University"},
+		"metadata": "https://raw.githubusercontent.com/XX-Blue-XX/Common-Ground-Map/master/data/leeds-money-lender-header.json",
+		"topics": ["Public"],
+		"size": 1000
 	}
+		
+		
+	
 }
