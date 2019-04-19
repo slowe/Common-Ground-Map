@@ -12,5 +12,12 @@
 		"metadata": "https://xx-blue-xx.github.io/Common-Ground-Map/data/leeds-bakery-header.json",
 		"topics": ["Food"],
 		"size": 36000
-	}
+	},
+	"lu-furniture":{
+		"name":"Leeds Furniture".
+		"credit":{"text":"&copy; University of Leeds","src":"Leeds University"},
+		"metadata": "https://github.com/XX-Blue-XX/Common-Ground-Map/blob/master/data/leeds-furniture-header.json",
+		"topics": ["Public"],
+		"size": 13000
+	}	
 }
