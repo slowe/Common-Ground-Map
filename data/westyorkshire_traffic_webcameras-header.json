@@ -1,0 +1,13 @@
+{
+	"geojson":"https://raw.githubusercontent.com/XX-Blue-XX/Common-Ground-Map/master/data/westyorkshire_traffic_webcameras.geojson",
+	"name":"Westshire Traffic Webcameras",
+	"desc": "Traffic webcameras in Durham and Bishop Auckland",
+	"credit":{"text":"&copy; University of Leeds","src":"Leeds University"},
+	"url": "https://datamillnorth.org/",
+	"owner": "Leeds City Council",
+	"odbl": false,
+	"licence": {"text":"Copyright","url":"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"},
+	"date":"2019-02-19",
+	"size": 7000,
+	"colour": "#D67149"
+}
