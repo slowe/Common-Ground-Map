@@ -2,14 +2,14 @@
 "lu-cycleroutes":{
 		"name":"leeds_cycling_routes",
 		"credit":{"text":"&copy; University of Leeds","src":"Leeds University"},
-		"metadata": "https://xx-blue-xx.github.io/Common-Ground-Map/leeds_cycling_routes_header.json",
+		"metadata": "https://xx-blue-xx.github.io/Common-Ground-Map/data/leeds_cycling_routes_header.json",
 		"topics": ["Transport","Sport"],
 		"size": 787000
 	},
 	"lu-bakery":{
 		"name":"Leeds Bakeries",
 		"credit":{"text":"&copy; University of Leeds","src":"Leeds University"},
-		"metadata": "https://xx-blue-xx.github.io/Common-Ground-Map/leeds-bakery-header.json",
+		"metadata": "https://xx-blue-xx.github.io/Common-Ground-Map/data/leeds-bakery-header.json",
 		"topics": ["Food"],
 		"size": 36000
 	}
