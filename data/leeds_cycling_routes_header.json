@@ -1,5 +1,5 @@
 {
-	"geojson":"https://raw.githubusercontent.com/XX-Blue-XX/cgm/Common-Ground-Map/leeds_cycling_routes.geojson",
+	"geojson":"https://raw.githubusercontent.com/XX-Blue-XX/cgm/Common-Ground-Map/data/leeds_cycling_routes.geojson",
 	"name":"leeds_cycling_routes",
 	"desc": "Cycling routes in Leeds city",
 	"credit":{"text":"&copy; University of Leeds","src":"Leeds University"},
