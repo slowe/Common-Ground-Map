@@ -14,7 +14,7 @@
 		"size": 36000
 	},
 	"lu-furniture":{
-		"name":"Leeds Furniture".
+		"name":"Leeds Furniture",
 		"credit":{"text":"&copy; University of Leeds","src":"Leeds University"},
 		"metadata": "https://github.com/XX-Blue-XX/Common-Ground-Map/blob/master/data/leeds-furniture-header.json",
 		"topics": ["Public"],
