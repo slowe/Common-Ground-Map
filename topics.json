@@ -1,5 +1,27 @@
-{
-	"Transport":"https://odileeds.org/resources/images/odileeds.svg",
-	"Sport":"https://odileeds.org/resources/images/odileeds.svg",
-  "Food":"https://odileeds.org/resources/images/odileeds.svg"
-}
+[
+	{
+		"title": "Transport",
+	 	"icon": "https://odileeds.org/resources/images/odileeds.svg",
+		"colour": "#D60303"
+	},{
+		"title": "Sport",
+		"icon": "https://odileeds.org/resources/images/odileeds.svg",
+		"colour": "#FF6700"
+	},{
+		"title": "Food",
+		"icon": "https://odileeds.org/resources/images/odileeds.svg",
+		"colour": "#1DD3A7"
+	},{
+		"title": "Government",
+		"icon": "https://odileeds.org/resources/images/odileeds.svg",
+		"colour": "#722EA5"
+	},{
+		"title": "Public",
+		"icon": "https://odileeds.org/resources/images/odileeds.svg",
+		"colour": "#EF3AAB"
+	},{
+		"title": "Environment",
+		"icon": "https://odileeds.org/resources/images/odileeds.svg",
+		"colour": "#0DBC37"
+	}
+]
