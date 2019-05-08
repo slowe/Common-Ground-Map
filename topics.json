@@ -1,7 +1,7 @@
 [
 	{
 		"title": "Transport",
-	 	"icon": "https://odileeds.org/resources/images/odileeds.svg",
+	 	"icon": "https://xx-blue-xx.github.io/Common-Ground-Map/images/Transport.PNG",
 		"colour": "#D60303"
 	},{
 		"title": "Sport",
@@ -9,19 +9,19 @@
 		"colour": "#FF6700"
 	},{
 		"title": "Food",
-		"icon": "https://odileeds.org/resources/images/odileeds.svg",
+		"icon": "https://xx-blue-xx.github.io/Common-Ground-Map/images/Food.PNG",
 		"colour": "#1DD3A7"
 	},{
 		"title": "Government",
-		"icon": "https://odileeds.org/resources/images/odileeds.svg",
+		"icon": "https://xx-blue-xx.github.io/Common-Ground-Map/images/government3.PNG",
 		"colour": "#722EA5"
 	},{
 		"title": "Public",
-		"icon": "https://odileeds.org/resources/images/odileeds.svg",
+		"icon": "https://xx-blue-xx.github.io/Common-Ground-Map/images/Public.jpg",
 		"colour": "#EF3AAB"
 	},{
 		"title": "Environment",
-		"icon": "https://odileeds.org/resources/images/odileeds.svg",
+		"icon": "https://xx-blue-xx.github.io/Common-Ground-Map/images/environment.PNG",
 		"colour": "#0DBC37"
 	}
 ]
